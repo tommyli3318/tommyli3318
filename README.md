@@ -1,16 +1,16 @@
-### Hi there 👋
+### 💻About Me💻
+Hello :)
+I'm Tommy, I truly enjoy coding and my work revolves around my goal of developing software that improves people's lives.
 
-<!--
-**tommyli3318/tommyli3318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Quick Overview
+* Junior in Computer Science at the University of California, Irvine
+* Incoming SDE intern at Amazon
+* Past experience at AbbVie, GSA, Paciolan, Google Summer of Code
+* Past Contributor of Nuitka Organization (Open Source)
+* Very passionate about Computer Science and problem solving
+* See more at my [Personal Website](https://tommyli3318.github.io/)
+* Reach out to me on [LinkedIn](https://www.linkedin.com/in/tommyli3318/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️Tools & Technologies🛠️
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
