@@ -17,16 +17,12 @@ I'm Tommy, I truly enjoy coding and my work revolves around my goal of developin
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=3776AB)
-
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/DynamoDB-informational?style=flat&logo=DynamoDB&logoColor=white&color=47A248)
-
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F7B500)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=F7B500)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=F7B500)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F7B500)
-
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=E44332)
-
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=7D4698)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=7D4698)
