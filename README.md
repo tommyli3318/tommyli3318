@@ -1,6 +1,6 @@
 ### 💻About Me💻
 Hello :)
-I'm Tommy, I am very passionate about coding and my work revolves around my goal of developing software that improves people's lives.
+I'm Tommy, I really enjoy coding and my work revolves around my goal of developing software that improves people's lives.
 
 #### Quick Overview
 * Junior in Computer Science at the University of California, Irvine
