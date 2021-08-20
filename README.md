@@ -27,4 +27,5 @@ I'm Tommy, I really enjoy coding and my work revolves around my goal of developi
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=E44332)
 ![](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=flat&logo=google-cloud&logoColor=white&color=E44332)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=7D4698)
+![](https://img.shields.io/badge/macOS-informational?style=flat&logo=Apple&logoColor=white&color=7D4698)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=7D4698)
