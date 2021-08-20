@@ -15,6 +15,7 @@ I'm Tommy, I really enjoy coding and my work revolves around my goal of developi
 ### 🛠️Tools & Technologies🛠️
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white&color=3776AB)
