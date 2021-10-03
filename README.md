@@ -6,7 +6,7 @@ I'm Tommy, I really enjoy coding and my work revolves around my goal of developi
 * Junior in Computer Science at the University of California, Irvine
 * Current SWE intern at Google
 * Past experience at Amazon, AbbVie, GSA, Paciolan, Google Summer of Code
-* Past Contributor of Nuitka Organization (Open Source)
+* Past contributor of Nuitka Organization (Open Source)
 * Very passionate about Computer Science and problem solving
 * More about me and my work on my [Personal Website](https://tommyli3318.github.io/)
 * Reach out to me on [LinkedIn](https://www.linkedin.com/in/tommyli3318/)
