@@ -4,8 +4,8 @@ I'm Tommy, I really enjoy coding and my work revolves around my goal of developi
 
 #### Quick Overview
 * Junior in Computer Science at the University of California, Irvine
-* Current SDE intern at Amazon
-* Past experience at AbbVie, GSA, Paciolan, Google Summer of Code
+* Current SWE intern at Google
+* Past experience at Amazon, AbbVie, GSA, Paciolan, Google Summer of Code
 * Past Contributor of Nuitka Organization (Open Source)
 * Very passionate about Computer Science and problem solving
 * More about me and my work on my [Personal Website](https://tommyli3318.github.io/)
