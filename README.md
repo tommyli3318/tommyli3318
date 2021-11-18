@@ -3,7 +3,7 @@ Hello :)
 I'm Tommy, I really enjoy coding and my work revolves around my goal of developing software that improves people's lives.
 
 #### Quick Overview
-* Junior in Computer Science at the University of California, Irvine
+* Senior in Computer Science at the University of California, Irvine
 * Current SWE intern at Google
 * Past experience at Amazon, AbbVie, GSA, Paciolan, Google Summer of Code
 * Past contributor of Nuitka Organization (Open Source)
