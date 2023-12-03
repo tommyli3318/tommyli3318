@@ -1,6 +1,6 @@
 ### 💻About Me💻
 Hello :)
-I'm Tommy, I really enjoy coding and my work revolves around my goal of developing software that improves people's lives.
+I'm Tommy, I code to make the world a (slightly) better place.
 
 #### Quick Overview
 * Current SWE at Google
